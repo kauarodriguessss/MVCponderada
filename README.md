@@ -3,9 +3,9 @@ ponderada de programação de arquitetura MVC
 
 # Kauã Rodrigues - Turma 11 Grupo 03
 
-# Atividade Avaliativa de Programação Semana 01 - Arquitetura MVC
+# Ponderada Semana 01 - Arquitetura MVC
 
-Esta é a atividade avaliativa de programação da primeira semana do segundo módulo. O objetivo é desenvolver e apresentar um esboço detalhado da arquitetura MVC (Model-View-Controller) para o projeto em Sails.js que será realizado ao longo do módulo.
+Esta é a ponderada de programação da primeira semana do segundo módulo. O objetivo é desenvolver e apresentar um esboço detalhado da arquitetura MVC (Model-View-Controller) para o projeto em Sails.js que será realizado ao longo do módulo.
 
 # Detalhes do Projeto
 
