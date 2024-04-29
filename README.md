@@ -1,24 +1,24 @@
 # MVCponderada
 ponderada de programação de arquitetura MVC
 
-# Kauã Rodrigues - Turma 11 Grupo 03**
+# Kauã Rodrigues - Turma 11 Grupo 03
 
-# Atividade Avaliativa de Programação Semana 01 - Arquitetura MVC**
+# Atividade Avaliativa de Programação Semana 01 - Arquitetura MVC
 
 Esta é a atividade avaliativa de programação da primeira semana do segundo módulo. O objetivo é desenvolver e apresentar um esboço detalhado da arquitetura MVC (Model-View-Controller) para o projeto em Sails.js que será realizado ao longo do módulo.
 
-# Detalhes do Projeto**
+# Detalhes do Projeto
 
 - Nome do Projeto: MVT - Movimento Voluntário Transformador
 - Descrição: A plataforma Web visa conectar organizações sociais e voluntários, facilitando o encontro entre os dois grupos. Assim, organizações poderão descobrir voluntários para participar em diversas iniciativas.
 - Arquitetura: MVC (Model-View-Controller)
 - Ferramenta para Diagramas: [draw.io](https://app.diagrams.net/)
 
-# Sobre o framework Sails.js**
+# Sobre o framework Sails.js
 
 O Sails.js é o framework escolhido para o backend deste projeto. Ele é baseado na arquitetura MVC e é projetado para acelerar o desenvolvimento de aplicações, transformando meses de codificação em semanas. Além disso, o Sails.js oferece suporte facilitado à integração com diversas APIs.
 
-# Funcionalidades Planejadas para a Plataforma**
+# Funcionalidades Planejadas para a Plataforma
 
 Os usuários poderão se registrar como voluntários ou como organizações. Após o cadastro, poderão disponibilizar-se para atividades voluntárias ou buscar organizações que necessitam de voluntários. Além disso, será possível cadastrar eventos ou ações voluntárias e ter um perfil que exibe estatísticas de engajamento.
 
@@ -39,7 +39,7 @@ A arquitetura MVC divide a aplicação em três partes principais:
 
 
 # Arquitetura do Projeto MVC
-![image](https://github.com/kauarodriguessss/MVCponderada/assets/159058128/d8363943-3aa5-4313-b9f9-615f4849c537)
+![image](https://github.com/kauarodriguessss/MVCponderada/assets/159058128/2c2f26f8-6612-4bd3-82d6-337a6b9f40ad)
 
 # Models:
 
@@ -58,7 +58,7 @@ Planejamos cinco interfaces principais para a plataforma:
 - Perfil do usuário: Para mostrar informações detalhadas do usuário e suas estatísticas.
 - Página de ação: Para detalhar uma ação específica, possibilitando inscrições.
 
-# Controllers:**
+# Controllers:
 
 Os controladores desempenharão funções críticas na interação do usuário, como:
 
