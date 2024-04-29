@@ -29,7 +29,7 @@ Os usuários poderão se registrar como voluntários ou como organizações. Ap�
 - Exibição de estatísticas no perfil
 - Estatísticas gerais da plataforma
 
-# Sobre a Arquitetura MVC**
+# Sobre a Arquitetura MVC
 
 A arquitetura MVC divide a aplicação em três partes principais:
 
